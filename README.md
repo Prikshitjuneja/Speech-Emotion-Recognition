@@ -29,7 +29,7 @@ Future Extensions:
 Scan QR for Live Testing on device 
 
 <p align="center">
-  <img width="800" height="auto" src="images/Output.png" alt="output">
+  <img width="200" height="auto" src="images/Output.png" alt="output">
 </p>
 
 3) Emotion Analysis in Education: The system could be integrated into educational settings to analyze the emotional states of students and teachers during classes. This could provide insights for improving teaching methods and student engagement.
