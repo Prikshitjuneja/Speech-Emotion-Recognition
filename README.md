@@ -25,5 +25,12 @@ Future Extensions:
 
 2) Multilingual Support: Expanding the system to support multiple languages would increase its usability and applicability. This could involve training the model on datasets in different languages and implementing language detection to switch between models based on the language of the input speech.
 
+
+Scan QR for Live Testing on device 
+
+<p align="center">
+  <img width="800" height="auto" src="images/Output.png" alt="output">
+</p>
+
 3) Emotion Analysis in Education: The system could be integrated into educational settings to analyze the emotional states of students and teachers during classes. This could provide insights for improving teaching methods and student engagement.
 
