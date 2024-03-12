@@ -5,7 +5,6 @@ Drive Link For Dataset:https://drive.google.com/drive/folders/12Ta0BAagYOgRP63ez
 Link to run the project on local machine : https://studio.edgeimpulse.com/public/340495/live
 
 
-deployed kaggle link:https://www.kaggle.com/code/siddharthpilkhn/notebooka4d73bba03
 edge impulse:https://smartphone.edgeimpulse.com/classifier.html
 
 Dataset contains :
@@ -37,6 +36,10 @@ Scan QR for Live Testing on device
 <p align="center">
   <img width="200" height="auto" src="images/Output.png" alt="output">
 </p>
+
+
+
+deployed kaggle link:https://www.kaggle.com/code/siddharthpilkhn/notebooka4d73bba03
 
 3) Emotion Analysis in Education: The system could be integrated into educational settings to analyze the emotional states of students and teachers during classes. This could provide insights for improving teaching methods and student engagement.
 
