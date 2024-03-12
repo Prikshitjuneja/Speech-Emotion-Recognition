@@ -3,6 +3,7 @@ Speech emotion Recognition
 Drive Link For Dataset:https://drive.google.com/drive/folders/12Ta0BAagYOgRP63ezmyVhXCEQHPEztFd?usp=sharing
 
 deployed kaggle link:https://www.kaggle.com/code/siddharthpilkhn/notebooka4d73bba03
+edge impulse:https://smartphone.edgeimpulse.com/classifier.html
 
 Dataset contains :
 
